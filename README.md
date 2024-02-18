@@ -30,9 +30,6 @@ I'm a **Software Engineer** from Poland, deeply engaged in a wide range of techn
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 - **Frameworks and Tools:** Gin (Go), Django (Python), Node.js (TypeScript), Linux scripting (`POSIX sh`, `sh`, `bash`, `zsh`, `fish` and other `Linux system tools`.
 
-## 🎵 Spotify Recently Played
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME)
-
 ## 🌱 My Interests
 - Exploring serverless technologies and AI-driven development.
 - Delving into Linux system administration and shell scripting.
