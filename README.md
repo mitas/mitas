@@ -5,11 +5,6 @@ I'm a **Software Engineer** from Poland, deeply engaged in a wide range of techn
 ## 🔥 GitHub Streaks
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mitas)
 
-## 📈 Contribution Highlights
-- **Commit Contribution:** 83% of my activities are commits. [View Commits](https://github.com/mitas?tab=overview&from=2023-02-01&to=2023-02-28)
-- **Code Review:** 11% of my work involves code review. [View Code Reviews](https://github.com/pulls/review-requested)
-- **Pull Requests:** 6% of my contributions are pull requests. [View Pull Requests](https://github.com/pulls)
-
 ## ⭐ Starred Repositories
 - **Go:** Web frameworks, serverless platforms, and CLI tools. [View Go Repos](https://github.com/mitas?tab=stars&q=go)
 - **Python:** AI, data processing, and scripting. [View Python Repos](https://github.com/mitas?tab=stars&q=python)
