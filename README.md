@@ -30,7 +30,6 @@ I'm a **Software Engineer** from Poland, deeply engaged in a wide range of techn
 - Avid supporter of the open source community.
 
 ## 📫 How to Reach Me
-- **Email:** [goza.michal@gmail.com.com](mailto:goza.michal@gmail.com)
 - **LinkedIn:** [linkedin.com/in/goza-michal](https://linkedin.com/in/goza-michal)
 
 ## 👀 Profile Views Counter
