@@ -2,9 +2,6 @@
 
 I'm a **Software Engineer** from Poland, deeply engaged in a wide range of technologies including serverless platforms, AI applications, Linux, shell scripting, hacking, penetration testing, and OpenAI. My GitHub stars reflect a diverse interest in various programming languages and technologies. Here's a more detailed look at my profile:
 
-## 🌟 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mitas&show_icons=true&theme=radical)
-
 ## 🔥 GitHub Streaks
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mitas)
 
